@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi, I'm kikunot. I'm currently working on automating design processes in architecture industry. These are the Programming languages that I use: Python, C#, SQL.
+
+I'm also looking for a mentor who has been succesful in this field.
 
 <!--
 **kikunota/kikunota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
