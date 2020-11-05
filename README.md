@@ -7,6 +7,10 @@ Couple of project that I am currently working on:
 - Extracting BIM model, sort the data as a SQL database[SQL]
 - Design Automation[C#]
 
+I'm interested in:
+- building PaaS for everyday users in architecture industries
+- 
+
 <!--
 **kikunota/kikunota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
