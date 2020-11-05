@@ -2,6 +2,11 @@ Hi, I'm kikunot. I'm currently working on automating design processes in archite
 
 I'm also looking for a mentor who has been succesful in this field.
 
+Couple of project that I am currently working on:
+- Mapping building classification code between UK, US and Japan (Uniclass, Omniclass and Japanese building standards)[Python]
+- Extracting BIM model, sort the data as a SQL database[SQL]
+- Design Automation[C#]
+
 <!--
 **kikunota/kikunota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
