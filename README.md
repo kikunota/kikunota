@@ -8,7 +8,7 @@ Couple of project that I am currently working on:
 - Design Automation[C#]
 
 I'm interested in:
-- building PaaS for everyday users in architecture industries
+- building SaaS for everyday users in architecture industries
 - 
 
 <!--
