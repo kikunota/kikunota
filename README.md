@@ -9,7 +9,6 @@ Couple of project that I am currently working on:
 
 I'm interested in:
 - building SaaS for everyday users in architecture industries
-- 
 
 <!--
 **kikunota/kikunota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
