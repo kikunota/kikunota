@@ -1,4 +1,9 @@
-Hi, I'm kikunot. I'm currently working on automating design processes and degital transformation in architecture industry. These are the Programming languages that I use: Python, C#, SQL.
+Hi, I'm kikunot. I'm currently working on automating design processes and degital transformation in architecture industry. These are the Programming languages that I use: 
+
+  1. Python(more than 3 yrs professional experience), 
+  2. C#(more than 3 yrs professional experience), 
+  3. some SQL (enough to generate, query and filter database)
+  4. and some Matlab (enough to do prototyping tasks) 
 
 I'm also looking for a mentor who has been succesful in this field.
 
