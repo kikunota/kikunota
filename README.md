@@ -12,11 +12,6 @@ Couple of project that I am currently working on:
 - Extracting BIM model, sort the data as a SQL database[SQL]
 - Design Automation[C#]
 
-I'm interested in:
-- SaaS for everyday consumers in architecture industries
-- PaaS for BtoB in manufacturing industry
-- Machine Learning for BtoC and BtoB
-
 <!--
 **kikunota/kikunota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
